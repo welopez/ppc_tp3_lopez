@@ -20,4 +20,7 @@
     <string name="radioBtnSi">Si</string>
     <string name="radioBtnNo">No</string>
 
+    //Pantalla 5
+    <string name="msgErrorEnvioImg">Error al enviar la imagen</string>
+
 </resources>
